@@ -825,6 +825,7 @@ a.link:hover {
   }
   .help-img {
     flex: 1 1 100%;
+    width: 100%;
   }
   .help-img img {
     height: 500px;
